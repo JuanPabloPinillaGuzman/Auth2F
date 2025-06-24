@@ -1,0 +1,7 @@
+C:\Development\Auth2F\ApiAuth2F\obj\Debug\net9.0\ApiAuth2F.csproj.AssemblyReference.cache
+C:\Development\Auth2F\ApiAuth2F\obj\Debug\net9.0\ApiAuth2F.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Auth2F\ApiAuth2F\obj\Debug\net9.0\ApiAuth2F.AssemblyInfoInputs.cache
+C:\Development\Auth2F\ApiAuth2F\obj\Debug\net9.0\ApiAuth2F.AssemblyInfo.cs
+C:\Development\Auth2F\ApiAuth2F\obj\Debug\net9.0\ApiAuth2F.csproj.CoreCompileInputs.cache
+C:\Development\Auth2F\ApiAuth2F\obj\Debug\net9.0\ApiAuth2F.MvcApplicationPartsAssemblyInfo.cs
+C:\Development\Auth2F\ApiAuth2F\obj\Debug\net9.0\ApiAuth2F.MvcApplicationPartsAssemblyInfo.cache

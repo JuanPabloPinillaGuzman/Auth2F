@@ -1,0 +1,11 @@
+C:\Development\Auth2F\Domain\bin\Debug\net9.0\Domain.deps.json
+C:\Development\Auth2F\Domain\bin\Debug\net9.0\Domain.dll
+C:\Development\Auth2F\Domain\bin\Debug\net9.0\Domain.pdb
+C:\Development\Auth2F\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Auth2F\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+C:\Development\Auth2F\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+C:\Development\Auth2F\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+C:\Development\Auth2F\Domain\obj\Debug\net9.0\Domain.dll
+C:\Development\Auth2F\Domain\obj\Debug\net9.0\refint\Domain.dll
+C:\Development\Auth2F\Domain\obj\Debug\net9.0\Domain.pdb
+C:\Development\Auth2F\Domain\obj\Debug\net9.0\ref\Domain.dll

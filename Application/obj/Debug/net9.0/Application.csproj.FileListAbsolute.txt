@@ -1,0 +1,15 @@
+C:\Development\Auth2F\Application\bin\Debug\net9.0\Application.deps.json
+C:\Development\Auth2F\Application\bin\Debug\net9.0\Application.dll
+C:\Development\Auth2F\Application\bin\Debug\net9.0\Application.pdb
+C:\Development\Auth2F\Application\bin\Debug\net9.0\Domain.dll
+C:\Development\Auth2F\Application\bin\Debug\net9.0\Domain.pdb
+C:\Development\Auth2F\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+C:\Development\Auth2F\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Auth2F\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+C:\Development\Auth2F\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+C:\Development\Auth2F\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+C:\Development\Auth2F\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+C:\Development\Auth2F\Application\obj\Debug\net9.0\Application.dll
+C:\Development\Auth2F\Application\obj\Debug\net9.0\refint\Application.dll
+C:\Development\Auth2F\Application\obj\Debug\net9.0\Application.pdb
+C:\Development\Auth2F\Application\obj\Debug\net9.0\ref\Application.dll

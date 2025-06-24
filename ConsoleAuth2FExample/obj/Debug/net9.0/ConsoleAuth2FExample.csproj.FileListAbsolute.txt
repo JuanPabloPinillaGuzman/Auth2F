@@ -1,0 +1,4 @@
+C:\Development\Auth2F\ConsoleAuth2FExample\obj\Debug\net9.0\ConsoleAuth2FExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Auth2F\ConsoleAuth2FExample\obj\Debug\net9.0\ConsoleAuth2FExample.AssemblyInfoInputs.cache
+C:\Development\Auth2F\ConsoleAuth2FExample\obj\Debug\net9.0\ConsoleAuth2FExample.AssemblyInfo.cs
+C:\Development\Auth2F\ConsoleAuth2FExample\obj\Debug\net9.0\ConsoleAuth2FExample.csproj.CoreCompileInputs.cache

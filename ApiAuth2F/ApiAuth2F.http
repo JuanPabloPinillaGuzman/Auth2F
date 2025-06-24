@@ -1,0 +1,6 @@
+@ApiAuth2F_HostAddress = http://localhost:5227
+
+GET {{ApiAuth2F_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
