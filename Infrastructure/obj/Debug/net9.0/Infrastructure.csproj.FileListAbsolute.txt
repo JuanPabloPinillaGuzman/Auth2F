@@ -1,0 +1,17 @@
+C:\Development\Auth2F\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+C:\Development\Auth2F\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+C:\Development\Auth2F\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+C:\Development\Auth2F\Infrastructure\bin\Debug\net9.0\Application.dll
+C:\Development\Auth2F\Infrastructure\bin\Debug\net9.0\Domain.dll
+C:\Development\Auth2F\Infrastructure\bin\Debug\net9.0\Domain.pdb
+C:\Development\Auth2F\Infrastructure\bin\Debug\net9.0\Application.pdb
+C:\Development\Auth2F\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Development\Auth2F\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Auth2F\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Development\Auth2F\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+C:\Development\Auth2F\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Development\Auth2F\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+C:\Development\Auth2F\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+C:\Development\Auth2F\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+C:\Development\Auth2F\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+C:\Development\Auth2F\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
